@@ -1,5 +1,5 @@
 applications:
-- name: pal-tracker
+- name: shopping-cart
   path: /shopping-cart/target/shopping-cart-0.0.1-SNAPSHOT.jar
   routes:
     - route: shoppig-cart-jenkins-pipline-setup.cfapps.io
